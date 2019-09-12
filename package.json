@@ -1,0 +1,19 @@
+{
+  "name": "@jxz/babel-plugin-import-chunkname",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/jest test/"
+  },
+  "keywords": [
+    "babel plugin"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/plugin-syntax-dynamic-import": "^7.2.0",
+    "babel-plugin-tester": "^7.0.1",
+    "jest": "^24.9.0"
+  }
+}
